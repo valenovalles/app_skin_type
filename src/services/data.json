@@ -1,0 +1,23 @@
+[
+    {
+        "question": "¿Como describirías tu piel después de realizar la limpieza facial?",
+        "answers": ["Seca y tirante", "Suave y equilibrada", "Grasosa", "En algunas zonas grasa y en otras secas"],
+        "id": "1"
+    },
+
+    {
+        "question": "¿Qué aspecto tiene tu piel a lo largo del día?",
+        "answers": ["Opaca y sin brillo", "Radiante y luminosa", "Brillante y con poros visibles", "Algunas zonas brillantes y otras secas"],
+        "id": "2"
+    },
+    {
+        "question": "¿Cómo reacciona tu piel ante los cambios de clima o temperatura?",
+        "answers": ["Se siente más seca e irritada", "Se mantiene equilibrada", " Se vuelve más grasa y propensa a los brotes", "Experimenta cambios en diferentes áreas"],
+        "id": "3"
+    },
+    {
+        "question": "¿Cómo responde tu piel a los productos cosméticos?",
+        "answers": ["Los productos suelen irritarla", "Se adapta bien a la mayoría de los productos", "Tiende a obstruirse y causar brotes", "Algunos funcionan bien, otros causan sequedad o grasa"],
+        "id": "4"
+    }
+]

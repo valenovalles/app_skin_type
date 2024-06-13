@@ -107,7 +107,7 @@ function App() {
     <Routes>
       <Route path="/" element={<>
     <Welcome />
-    <Link className="start" to="/test" onClick={handleStart}>Take the Test now!</Link>
+    <Link className="start" to="/test" onClick={handleStart}>Haz el test ahora</Link>
   </>}/>
      
       <Route path="/test" element={

@@ -47,7 +47,7 @@ function Test({handlePrevious, handleNext, currentQuestion, selectedAnswer, hand
       </div>
     </form>
 
-    <input type="button" value="Go back" className="start_button" onClick={handleClick}/>
+    <input type="button" value="Atrás" className="start_button" onClick={handleClick}/>
         </>
    
   )

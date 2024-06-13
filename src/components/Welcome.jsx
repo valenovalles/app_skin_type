@@ -9,8 +9,8 @@ function Welcome() {
 
   return (
     <div>
-      <h1 className="ppal_title">Discover your skin type!</h1>
-      <h2 className="ppal_slogan">You just have to clean your face, wait 30 minutes without applying any product, and answer 4 questions.</h2>
+      <h1 className="ppal_title">¡Descubre tu tipo de piel!</h1>
+      <h2 className="ppal_slogan">Sólo tienes que lavar tu rostro, esperar 30 minutos sin aplicar ningún producto y responder 4 preguntas.</h2>
 
       
     </div>

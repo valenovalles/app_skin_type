@@ -76,7 +76,7 @@ function App() {
       } else if (total <= 10) {
         return (
           <span>
-          <strong>Tienes una piel normal:</strong> Aplica cuidados preventivos para mantener su equilibrio. Incorpora productos ricos en antioxidantes, como la vitamina C y la vitamina E, en tu rutina diaria. Estos ingredientes protegen la piel contra los daños ambientales y los radicales libres, manteniéndola saludable y radiante.</span>);
+          <strong>Tienes una piel sensible:</strong> Usa limpiadores suaves y sin fragancia. Mantén una hidratación constante con cremas hipoalergénicas y evita exfoliantes abrasivos. Elige ingredientes calmantes como la centella asiática o el aloe vera. Realiza siempre un "patch test" (en el brazo) antes de usar nuevos productos.</span>);
       } else if (total <= 14) {
         return (<span><strong>Tu piel es grasa:</strong> Usa un exfoliante químico suave con ingredientes como el ácido salicílico o el ácido glicólico. Exfolia tu piel dos o tres veces por semana para mantener los poros limpios y reducir el exceso de sebo. Esto ayudará a prevenir los brotes y a mantener una textura de piel más suave y uniforme.</span>);
       } else {
